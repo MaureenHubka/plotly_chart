@@ -1,0 +1,15 @@
+  .jumbotron {
+   
+    background-image: url("../images/petri.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+  }
+  #metaPanel {
+  text-align: center;
+  color: rgb(13, 47, 121);
+  }
+
+  #selDataset {
+      padding: 20px;
+  color: rgb(13, 47, 121);
+  }
