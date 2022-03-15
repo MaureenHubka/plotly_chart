@@ -8,8 +8,6 @@ A biological researcher is interestered in bacteria that have the ability synthe
 
 This website provides a dashboard for logging and tracking navel swab results. Specifically, the volunteers should be able to identify the top 10 bacterial species in their belly buttons. That way, if Improbable Beef identifies a species as a candidate to manufacture synthetic beef, the volunteers will be able to identify whether that species is found in their navel.
 
-https://github.com/MaureenHubka/plotly_chart/blob/main/index.htm
-
 ## Deliverables Met:
 - Deliverable 1: Create a Horizontal Bar Chart
 - Deliverable 2: Create a Bubble Chart
